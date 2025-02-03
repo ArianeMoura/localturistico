@@ -2,7 +2,9 @@
 
 - **Desafio Prático da Formação Full-Stack Rocketseat**
 
-Desenvolver uma página web com informações sobre um determinado local turístico. 
+Este projeto envolve a criação de uma página web voltada para desktop, apresentando informações sobre um local turístico 🗺️
+
+A iniciativa faz parte da formação Full-Stack, sendo um dos desafios práticos desenvolvidos como parte do conteúdo de especialização.
 
 <br>
 
@@ -11,6 +13,20 @@ Desenvolver uma página web com informações sobre um determinado local turíst
 <br>
 <br>
 
-Nessa apliacação foi trabalhado:
+📍 Nessa apliacação foi trabalhado:
 
-<img width="616" alt="image" src="https://github.com/user-attachments/assets/e84d5e52-444d-4f96-9183-3fbff7816f5c" />
+Estrutura HTML ✔️
+
+Estilizações com CSS ✔️
+
+Fontes ✔️
+
+Espaçamentos ✔️
+
+Imagens ✔️
+
+Listas desordenadas ✔️
+
+Alterações das cores dos textos ✔️
+
+Alterações dos pesos dos textos ✔️
