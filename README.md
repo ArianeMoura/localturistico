@@ -13,20 +13,30 @@ A iniciativa faz parte da formação Full-Stack, sendo um dos desafios práticos
 <br>
 <br>
 
-📍 *Nessa apliacação foi trabalhado:*
+📍 **Nessa apliacação foi trabalhado:**
 
-– **Estrutura HTML** ✔️
+– Estrutura HTML ✔️
 
-– **Estilizações com CSS** ✔️
+– Estilizações com CSS ✔️
 
-– **Fontes** ✔️
+– Fontes ✔️
 
-– **Espaçamentos** ✔️
+– Espaçamentos ✔️
 
-– **Imagens** ✔️
+– Imagens ✔️
 
-– **Listas desordenadas** ✔️
+– Listas desordenadas ✔️
 
-– **Alterações das cores dos textos** ✔️
+– Alterações das cores dos textos ✔️
 
-– **Alterações dos pesos dos textos** ✔️
+– Alterações dos pesos dos textos ✔️
+
+<br>
+<br>
+
+
+🖥️ **Acesse o projeto:**
+
+<a href="https://arianemoura.github.io/localturistico/">Local Turistico - Busan</a>
+
+
