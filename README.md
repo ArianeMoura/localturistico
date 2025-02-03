@@ -2,7 +2,7 @@
 
 - **Desafio Prático da Formação Full-Stack Rocketseat**
 
-Este projeto envolve a criação de uma página web voltada para desktop, apresentando informações sobre um local turístico 🗺️
+Este projeto envolve a criação de uma página web voltada para desktop, apresentando informações sobre um *local turístico* 🗺️
 
 A iniciativa faz parte da formação Full-Stack, sendo um dos desafios práticos desenvolvidos como parte do conteúdo de especialização.
 
@@ -13,20 +13,20 @@ A iniciativa faz parte da formação Full-Stack, sendo um dos desafios práticos
 <br>
 <br>
 
-📍 Nessa apliacação foi trabalhado:
+📍 *Nessa apliacação foi trabalhado:*
 
-Estrutura HTML ✔️
+– **Estrutura HTML** ✔️
 
-Estilizações com CSS ✔️
+– **Estilizações com CSS** ✔️
 
-Fontes ✔️
+– **Fontes** ✔️
 
-Espaçamentos ✔️
+– **Espaçamentos** ✔️
 
-Imagens ✔️
+– **Imagens** ✔️
 
-Listas desordenadas ✔️
+– **Listas desordenadas** ✔️
 
-Alterações das cores dos textos ✔️
+– **Alterações das cores dos textos** ✔️
 
-Alterações dos pesos dos textos ✔️
+– **Alterações dos pesos dos textos** ✔️
